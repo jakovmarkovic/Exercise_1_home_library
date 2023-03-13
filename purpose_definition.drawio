@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e">
+    <diagram id="vimweZD87EN-d6mhO_-g" name="Page-1">
+        <mxGraphModel dx="707" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="book_title" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="418" y="224" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="author" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="273.3400000000001" y="326" width="133.33" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="read_start_date" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="432.66" y="650" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="read_end_date" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="565.66" y="655" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="id_book" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="345" y="120" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="genre" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="138" y="224" width="130" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="total_pages" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="403.33" y="326" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="publisher" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="278" y="220" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="last_read_page" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="162.66" y="650" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="discount" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="616.5" y="490" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="final_price" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="213.5" y="490" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="pay_method" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="483.50000000000006" y="490" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="read_count" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="292.66" y="650" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="language" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="129.99999999999994" y="324" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="illustrated_tf" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="548" y="226" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="order_date" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="73.50000000000003" y="490" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="store" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="346.50000000000006" y="490" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="base_price" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="548" y="326" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="language" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="50" width="110" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
